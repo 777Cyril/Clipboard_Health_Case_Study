@@ -1,6 +1,6 @@
 SaaSafras Revenue Model README
 Overview
-This README document outlines the revenue model implemented for SaaSafras, a plant care software company, focusing on strategic team allocation across New Business Acquisition, Account Management, and Support to maximize cumulative revenue over a 24-month period. The model is based on Python simulations that evaluate different allocation strategies to optimize revenue growth and customer base expansion.
+This document outlines the revenue model implemented for SaaSafras, a plant care software company, focusing on strategic team allocation across New Business Acquisition, Account Management, and Support to maximize cumulative revenue over a 24-month period. The model is based on Python simulations that evaluate different allocation strategies to optimize revenue growth and customer base expansion.
 
 Model Description
 The revenue model simulates the impact of different team allocations on SaaSafras' revenue and customer retention. It incorporates key business metrics such as customer acquisition rates, churn rates, and the effect of customer satisfaction (CSAT) improvements on churn. The model explores five different scenarios, each with a unique allocation of resources to New Business Acquisition, Account Management, and Support.
